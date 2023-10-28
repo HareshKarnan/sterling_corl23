@@ -24,8 +24,6 @@ import yaml
 import os
 from sklearn import metrics
 
-webhook_url = "https://hooks.slack.com/services/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"
-
 from scipy.signal import periodogram
 from scripts.models import VisualEncoder, IPTEncoder, VisualEncoderTiny
 from scripts.utils import process_feet_data, get_transforms
