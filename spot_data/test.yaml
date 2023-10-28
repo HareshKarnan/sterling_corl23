@@ -1,0 +1,11 @@
+# Description: Test config file for the SPOT dataset
+train:
+  - spot_data/test/bush/2022-12-14-07-59-26
+  - spot_data/test/bush/2022-12-14-08-02-07
+  - spot_data/test/concrete/2022-12-13-07-44-22
+  - spot_data/test/concrete/2022-12-15-15-27-03
+val:
+  - spot_data/test/bush/2022-12-14-07-59-26
+  - spot_data/test/bush/2022-12-14-08-02-07
+  - spot_data/test/concrete/2022-12-13-07-44-22
+  - spot_data/test/concrete/2022-12-15-15-27-03
